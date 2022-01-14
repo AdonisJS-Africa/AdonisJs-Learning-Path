@@ -10,6 +10,6 @@ It is divided into four main parts(4):
 
 ## Table of Contents
 
-- [](#beginner level)
-- [Beginner Level](#basics-of-nodejs)
+- [](#)
+- [Beginner Level](#beginner-level)
 - [Basics Of NodeJs](#basics-of-nodejs)

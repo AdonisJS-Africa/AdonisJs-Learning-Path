@@ -43,7 +43,7 @@ It is divided into four main parts(4):
     - [Auth Advanced](#auth-advance)
     - [File Uploads](#file-uploads)
     - [Deployment and Version Control)](#deployment-git)
-    - [Edge Basics](#edge-basics)
+    - [Demo Project](#demo-project)
 
 - [Advanced Level](#news-services)
 - [Expert Level](#placeholder-images)

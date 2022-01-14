@@ -36,5 +36,7 @@ It is divided into four main parts(4):
     - [Database Basics (Migrations & Lucid)](#database-basics)
     - [Edge Basics](#edge-basics)
 - [Improvement Level](#natural-language-processing)
+    - [Full Features](# )
+    - [API Features]
 - [Advanced Level](#news-services)
 - [Expert Level](#placeholder-images)

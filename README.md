@@ -36,7 +36,7 @@ It is divided into four main parts(4):
     - [Database Basics (Migrations & Lucid)](#database-basics)
     - [Edge Basics](#edge-basics)
 - [Improvement Level](#natural-language-processing)
-    - [Routing Advanced](#routing-advance)        
+     - [Routing Advanced](#routing-advance)        
     - [Middleware](#middleware)
     - [Database Advanced](#database-advance)
     - [Auth Advanced](#auth-advance)

@@ -38,13 +38,13 @@ I- [Beginner Level](#beginner-level)
     - [Database Basics (Migrations & Lucid)](#database-basics)
     - [Edge Basics](#edge-basics)
     
-II-[Improvement Level](#natural-language-processing)
-    - [Routing Advanced](#routing-advance)
-    - [Middleware](#middleware)
-    - [Database Advanced](#database-advance)
-    - [Auth Advanced](#auth-advance)
-    - [File Uploads](#file-uploads)
-    - [Deployment and Version Control)](#deployment-git)
+II-[Improvement Level](#natural-language-processing)<br>
+    - [Routing Advanced](#routing-advance)<br>
+    - [Middleware](#middleware)<br>
+    - [Database Advanced](#database-advance)<br>
+    - [Auth Advanced](#auth-advance)<br>
+    - [File Uploads](#file-uploads)<br>
+    - [Deployment and Version Control)](#deployment-git)<br>
     - [Demo Project](#demo-project)
 
 III- [Advanced Level](#news-services)<br>

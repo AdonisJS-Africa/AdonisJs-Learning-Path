@@ -47,5 +47,5 @@ II-[Improvement Level](#natural-language-processing)
     - [Deployment and Version Control)](#deployment-git)
     - [Demo Project](#demo-project)
 
-III- [Advanced Level](#news-services)
+III- [Advanced Level](#news-services)<br>
 IV- [Expert Level](#placeholder-images)

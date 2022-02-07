@@ -11,7 +11,7 @@ It is divided into four main parts(4):
 ## Table of Contents
 
 
-I- [Beginner Level](#beginner-level)
+- [Beginner Level](#beginner-level)
   - [Basics Of NodeJs](#basics-of-nodejs)
     - [What is Node.js?](#what-nodejs)
     - [Process and thread](#process-thread)
@@ -38,7 +38,7 @@ I- [Beginner Level](#beginner-level)
     - [Database Basics (Migrations & Lucid)](#database-basics)
     - [Edge Basics](#edge-basics)
     
-II-[Improvement Level](#natural-language-processing)<br>
+-[Improvement Level](#natural-language-processing)<br>
     - [Routing Advanced](#routing-advance)<br>
     - [Middleware](#middleware)<br>
     - [Database Advanced](#database-advance)<br>
@@ -47,5 +47,5 @@ II-[Improvement Level](#natural-language-processing)<br>
     - [Deployment and Version Control)](#deployment-git)<br>
     - [Demo Project](#demo-project)
 
-III- [Advanced Level](#news-services)<br>
-IV- [Expert Level](#placeholder-images)
+- [Advanced Level](#news-services)<br>
+- [Expert Level](#placeholder-images)
